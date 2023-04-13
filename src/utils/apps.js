@@ -17,6 +17,12 @@ const apps = [
     action: "SEARCHMENU",
   },
   {
+name: "Microsoft Teams",
+icon: "teams",
+type: "app",
+url: "https://teams.microsoft.com",
+  },
+  {
     name: "Widget",
     icon: "widget",
     type: "action",
